@@ -22,6 +22,7 @@ The code consists of a single file that contains a single class, TStringGridHelp
     TStringGrid(Sender).SortRecords(BindingsList1, TStringGrid(Sender).Cells[ACol, ARow]);
     ```
     
+License file added 8/24/17. See file list.
+    
 Coming soon:
 * A blog entry with more explanatin and detail.
-* A license file
